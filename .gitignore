@@ -1,3 +1,5 @@
 /.htaccess
 wp-admin/
 wp-includes/
+wp-content/plugins/
+*.config
